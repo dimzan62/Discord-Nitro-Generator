@@ -4,7 +4,7 @@ import string
 import time
 
 
-WEBHOOK_URL = "Your Webhook URL"
+WEBHOOK_URL = "Your Webhook URL Here"
 
 
 def generate_code():
