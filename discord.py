@@ -4,7 +4,7 @@ import string
 import time
 
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1346844735976898630/MZzBZ8obw275ggcfLwFWzz7FeG2fii5e1d-5HgceVLPGWOF0D6cFR94Tlo1aVcY_eJ9e"
+WEBHOOK_URL = "Your Webhook URL"
 
 
 def generate_code():
